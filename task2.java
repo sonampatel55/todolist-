@@ -1,5 +1,5 @@
 import java.util.*;
-class Demo
+class task2
 {
 public static void main(String ar[])
 {
@@ -30,3 +30,6 @@ else
  
 }
 }
+
+
+

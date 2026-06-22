@@ -1,7 +1,7 @@
-import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 import javax.script.*;
+import javax.swing.*;
 
 class FDemo extends JFrame implements ActionListener
 {
@@ -69,7 +69,7 @@ b[19].setLabel("+");
 			
 }
 public void actionPerformed(ActionEvent e)
-{
+{  
 	if(e.getSource()==b[0])
 	{
 		String s1=tx1.getText();
@@ -121,7 +121,7 @@ public void actionPerformed(ActionEvent e)
 
 	}
 	
-class Demo
+class task1
 {
 	public static void main(String ar[])
 	{
